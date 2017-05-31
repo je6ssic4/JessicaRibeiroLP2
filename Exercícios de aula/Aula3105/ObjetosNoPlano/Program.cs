@@ -30,7 +30,7 @@ namespace ObjetosNoPlano
                 obj.AndarParaADireita();
                 Console.WriteLine(obj.Coordenadas());
             }
-            while (comando == ConsoleKey.RightArrow);
+            while (comando == ConsoleKey.Escape);
                 
 
         }
