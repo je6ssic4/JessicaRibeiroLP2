@@ -19,16 +19,18 @@ namespace ObjetosNoPlano
             int y = int.Parse(Console.ReadLine());
 
             Objeto2D obj = new Objeto2D();
-
+            obj.x = x;
+            obj.y = y;
 
             Console.WriteLine("Digite um comando: ");
             ConsoleKey comando = Console.ReadKey().Key;
 
-            if (comando == ConsoleKey.RightArrow)
+            do
             {
                 obj.AndarParaADireita();
                 Console.WriteLine(obj.Coordenadas());
             }
+            while (comando == ConsoleKey.RightArrow);
                 
 
         }
