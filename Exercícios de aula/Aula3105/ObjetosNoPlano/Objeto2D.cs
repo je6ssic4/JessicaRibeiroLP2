@@ -16,6 +16,21 @@ namespace ObjetosNoPlano
             x = x + 3;
         }
 
+        public void AndarParaAEsquerda()
+        {
+            x = x - 3;
+        }
+
+        public void VaParaCima()
+        {
+            y = y + 3;
+        }
+
+        public void VaParaBaixo()
+        {
+            y = y - 3;
+        }
+
         public string Coordenadas()
         {
             return String.Format("({0},{1})", x, y);

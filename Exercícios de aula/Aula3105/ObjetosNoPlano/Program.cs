@@ -12,6 +12,7 @@ namespace ObjetosNoPlano
         {
             int A = 600, L = 800;
 
+
             Console.WriteLine("Digite X inicial:");
             int x = int.Parse(Console.ReadLine());
 
@@ -28,11 +29,30 @@ namespace ObjetosNoPlano
             {
                 ConsoleKey comando = Console.ReadKey().Key;
 
-                if (comando == ConsoleKey.RightArrow)
-                {
-                    obj.AndarParaADireita();
-                }
+
+                    if (comando == ConsoleKey.RightArrow && obj.x < 800)
+                    {
+                        obj.AndarParaADireita();
+                    }
+                    if (comando == ConsoleKey.LeftArrow && obj.x > 0)
+                    {
+                        obj.AndarParaAEsquerda();
+                    }
+                    if (comando == ConsoleKey.UpArrow && obj.y < 600)
+                    {
+                        obj.VaParaCima();
+                    }
+                    if (comando == ConsoleKey.DownArrow && obj.y > 0)
+                    {
+                        obj.VaParaBaixo();
+                    }
+                
+              if(obj.x < 800 && obj.y < 600)
+              {
                   Console.WriteLine(obj.Coordenadas());
+              }
+
+             
             }
                 
 
