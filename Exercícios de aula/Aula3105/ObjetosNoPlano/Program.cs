@@ -19,9 +19,12 @@ namespace ObjetosNoPlano
             Console.WriteLine("Digite Y inicial:");
             int y = int.Parse(Console.ReadLine());
 
-            Objeto2D obj = new Objeto2D();
+
+            Circulo obj = new Circulo();
             obj.x = x;
             obj.y = y;
+            Console.WriteLine("Digite Raio inicial:");
+            obj.raio = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite um comando: ");
 
