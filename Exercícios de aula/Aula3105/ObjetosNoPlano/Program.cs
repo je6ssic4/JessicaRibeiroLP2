@@ -23,14 +23,17 @@ namespace ObjetosNoPlano
             obj.y = y;
 
             Console.WriteLine("Digite um comando: ");
-            ConsoleKey comando = Console.ReadKey().Key;
 
-            do
+            while (true) 
             {
-                obj.AndarParaADireita();
-                Console.WriteLine(obj.Coordenadas());
+                ConsoleKey comando = Console.ReadKey().Key;
+
+                if (comando == ConsoleKey.RightArrow)
+                {
+                    obj.AndarParaADireita();
+                }
+                  Console.WriteLine(obj.Coordenadas());
             }
-            while (comando == ConsoleKey.Escape);
                 
 
         }
