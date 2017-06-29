@@ -13,7 +13,7 @@ namespace CompeticaoDeCorrida
 
         public void 
 
-        public double PiorTempo(double temp2, double temp3)
+       public double PiorTempo(double temp2, double temp3)
         {
             if (temp1 < temp2 && temp1 < temp3)
             {
