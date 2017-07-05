@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompeticaoDeCorrida", "CompeticaoDeCorrida\CompeticaoDeCorrida.csproj", "{C6814DB8-1071-4945-91E8-CF225D7AECE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corrida", "Corrida\Corrida.csproj", "{C8478C29-BFB5-4A1B-87C9-B6CAD26C4A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6814DB8-1071-4945-91E8-CF225D7AECE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6814DB8-1071-4945-91E8-CF225D7AECE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6814DB8-1071-4945-91E8-CF225D7AECE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6814DB8-1071-4945-91E8-CF225D7AECE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8478C29-BFB5-4A1B-87C9-B6CAD26C4A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8478C29-BFB5-4A1B-87C9-B6CAD26C4A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8478C29-BFB5-4A1B-87C9-B6CAD26C4A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8478C29-BFB5-4A1B-87C9-B6CAD26C4A5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
