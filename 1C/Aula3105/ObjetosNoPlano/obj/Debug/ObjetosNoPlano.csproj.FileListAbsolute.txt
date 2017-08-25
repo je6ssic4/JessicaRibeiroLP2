@@ -1,0 +1,6 @@
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula3105\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.csprojResolveAssemblyReference.cache
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula3105\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.exe.config
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula3105\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.exe
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula3105\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.pdb
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula3105\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.exe
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula3105\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.pdb

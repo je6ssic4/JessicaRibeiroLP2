@@ -1,0 +1,2 @@
+D:\JessicaRibeiroLP2\2C\4-CodigoMorse\4-CodigoMorse\4-CodigoMorse\bin\Debug\4-CodigoMorse.exe.config
+D:\JessicaRibeiroLP2\2C\4-CodigoMorse\4-CodigoMorse\4-CodigoMorse\obj\Debug\4-CodigoMorse.csprojResolveAssemblyReference.cache

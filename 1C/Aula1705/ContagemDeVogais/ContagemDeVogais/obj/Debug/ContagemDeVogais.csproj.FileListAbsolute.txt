@@ -1,0 +1,9 @@
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula1705\ContagemDeVogais\ContagemDeVogais\bin\Debug\ContagemDeVogais.exe.config
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula1705\ContagemDeVogais\ContagemDeVogais\obj\Debug\ContagemDeVogais.csprojResolveAssemblyReference.cache
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula1705\ContagemDeVogais\ContagemDeVogais\bin\Debug\ContagemDeVogais.exe
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula1705\ContagemDeVogais\ContagemDeVogais\bin\Debug\ContagemDeVogais.pdb
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula1705\ContagemDeVogais\ContagemDeVogais\obj\Debug\ContagemDeVogais.exe
+D:\JessicaRibeiroLP2\Exercícios de aula\Aula1705\ContagemDeVogais\ContagemDeVogais\obj\Debug\ContagemDeVogais.pdb
+D:\JessicaRibeiroLP2\1C\Aula1705\ContagemDeVogais\ContagemDeVogais\bin\Debug\ContagemDeVogais.exe.config
+D:\JessicaRibeiroLP2\1C\Aula1705\ContagemDeVogais\ContagemDeVogais\obj\Debug\ContagemDeVogais.exe
+D:\JessicaRibeiroLP2\1C\Aula1705\ContagemDeVogais\ContagemDeVogais\obj\Debug\ContagemDeVogais.pdb

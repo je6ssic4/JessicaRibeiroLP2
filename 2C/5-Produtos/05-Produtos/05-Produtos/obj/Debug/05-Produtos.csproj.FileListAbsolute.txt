@@ -1,0 +1,5 @@
+D:\JessicaRibeiroLP2\2C\5-Produtos\05-Produtos\05-Produtos\bin\Debug\05-Produtos.exe.config
+D:\JessicaRibeiroLP2\2C\5-Produtos\05-Produtos\05-Produtos\bin\Debug\05-Produtos.exe
+D:\JessicaRibeiroLP2\2C\5-Produtos\05-Produtos\05-Produtos\bin\Debug\05-Produtos.pdb
+D:\JessicaRibeiroLP2\2C\5-Produtos\05-Produtos\05-Produtos\obj\Debug\05-Produtos.exe
+D:\JessicaRibeiroLP2\2C\5-Produtos\05-Produtos\05-Produtos\obj\Debug\05-Produtos.pdb
