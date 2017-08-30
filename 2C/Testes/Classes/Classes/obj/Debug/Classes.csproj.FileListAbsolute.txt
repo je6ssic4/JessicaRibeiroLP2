@@ -1,0 +1,6 @@
+D:\JessicaRibeiroLP2\2C\Testes\Classes\Classes\bin\Debug\Classes.exe.config
+D:\JessicaRibeiroLP2\2C\Testes\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\JessicaRibeiroLP2\2C\Testes\Classes\Classes\bin\Debug\Classes.exe
+D:\JessicaRibeiroLP2\2C\Testes\Classes\Classes\bin\Debug\Classes.pdb
+D:\JessicaRibeiroLP2\2C\Testes\Classes\Classes\obj\Debug\Classes.exe
+D:\JessicaRibeiroLP2\2C\Testes\Classes\Classes\obj\Debug\Classes.pdb
