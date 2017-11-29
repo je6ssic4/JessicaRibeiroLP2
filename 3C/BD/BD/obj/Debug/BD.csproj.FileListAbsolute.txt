@@ -1,0 +1,6 @@
+F:\Pedro II\LP\LP2\BD\BD\bin\Debug\BD.exe.config
+F:\Pedro II\LP\LP2\BD\BD\bin\Debug\BD.exe
+F:\Pedro II\LP\LP2\BD\BD\bin\Debug\BD.pdb
+F:\Pedro II\LP\LP2\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+F:\Pedro II\LP\LP2\BD\BD\obj\Debug\BD.exe
+F:\Pedro II\LP\LP2\BD\BD\obj\Debug\BD.pdb
